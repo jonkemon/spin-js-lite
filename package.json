@@ -1,0 +1,18 @@
+{
+  "name": "spin-js-lite",
+  "version": "0.0.3",
+  "description": "Super lite Node Module containing the excellent spin.js and little more on top!",
+  "main": "spin.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgnass/spin.js"
+  },
+  "keywords": [
+    "Spin.js",
+    "Spin",
+    "Spinner"
+  ],
+  "author": "JM <jonkemon@hotmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/fgnass/spin.js"
+}
